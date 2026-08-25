@@ -5,11 +5,11 @@ For Baghlaf Steel, the website is not simply a corporate website. Its primary jo
 I did a quick external check before brainstorming, and there is already a serious problem we should design around: multiple websites currently present themselves as “Baghlaf Steel” or “Baghlaf” with overlapping claims and contact information. For example, `baghlafsteel-saudiarabia.com` presents itself as Baghlaf Steel, while `steelbaghlaf.com` presents a Baghlaf steel/iron business, and another site `import-rebar-iron.com` also presents itself as Baghlaf Steel.
 
 That makes your idea **much more important than a normal redesign**.
-
+`
 # 1. The core idea
 
 I would define the project like this:
-
+`
 > **Baghlaf Steel Official Digital Headquarters**
 > 
 > A secure, authoritative, multilingual corporate platform that allows international buyers to verify Baghlaf Steel, understand who the company is, verify its products and capabilities, communicate directly with authorized representatives, and distinguish official Baghlaf Steel channels from unauthorized brokers and impersonators.
