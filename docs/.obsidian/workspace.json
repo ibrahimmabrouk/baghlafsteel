@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-project/project-overview.md",
+                "file": "00-project/strategic-framework-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-overview"
+              "title": "strategic-framework-index"
             }
           }
         ]
@@ -192,6 +192,9 @@
   "lastOpenFiles": [
     "00-project/project-status.md",
     "00-project/project-overview.md",
+    "00-project/project-glossary.md",
+    "00-project/strategic-framework-index.md",
+    "Untitled.base",
     "09-decisions/DEC-016-client-owned-production-infrastructure.md",
     "09-decisions/DEC-015-qa-and-release-gates.md",
     "09-decisions/DEC-014-project-memory-and-ai-governance.md",
