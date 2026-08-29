@@ -11,10 +11,14 @@
             "id": "d15ff9691b0e5249",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-project/project-overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "project-overview"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-project/project-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-project/project-overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-project/project-overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,8 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4758fb6ccec1796a",
+  "active": "d15ff9691b0e5249",
   "lastOpenFiles": [
+    "00-project/project-status.md",
+    "00-project/project-overview.md",
     "09-decisions/DEC-016-client-owned-production-infrastructure.md",
     "09-decisions/DEC-015-qa-and-release-gates.md",
     "09-decisions/DEC-014-project-memory-and-ai-governance.md",
@@ -197,7 +206,6 @@
     "09-decisions/DEC-005-trust-first-digital-identity.md",
     "09-decisions/DEC-004-market-and-target-buyers.md",
     "09-decisions/DEC-003-company-business-model.md",
-    "00-project/project-status.md",
     "02-business/claims-matrix.md"
   ]
 }
